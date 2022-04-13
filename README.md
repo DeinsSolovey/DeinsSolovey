@@ -3,6 +3,6 @@
 > I'm developing plugins 🔧
 > I'm constantly learning something new 🎓
 > My perfectionism knows no limit ✅
-> And I love my job ✨
+> And I love my profession ✨
 ```
 ### 💗 Also follow me on [social media](https://teletype.link/neutralwinter)
