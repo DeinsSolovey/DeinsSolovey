@@ -1,4 +1,4 @@
-# Hi, i'm web-designer and I love my job 👋
+# Hi, i'm web-designer and figma plugins developer 👋 And yes, I love my job ✨
 
 - 🔧 I'm developing plugins
 - 🎓 I'm constantly learning something new
