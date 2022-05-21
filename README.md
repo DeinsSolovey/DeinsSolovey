@@ -1,4 +1,4 @@
-# Hi, i'm web-designer and figma plugins developer 👋 
+# Hi, i'm web-designer and figma plugins developer
 ```
 > I'm developing plugins 🔧
 > I'm constantly learning something new 🎓
