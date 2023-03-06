@@ -1,4 +1,4 @@
-# Designer and figma plugins developer striving for the ideal
+# UX/UI Designer | Figma Plugins Developer
 ```
 ◈ Works with atomic design methodology
 ◈ Have a high level of Photoshop and Figma skills
