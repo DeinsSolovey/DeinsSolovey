@@ -1,7 +1,6 @@
 # Designer and figma plugins developer striving for the ideal
 ```
 ◈ Works with atomic design methodology
-◈ Works with atomic design methodology
 ◈ Have a high level of Photoshop and Figma skills
 ◈ Like to make complex collages from time to time
 ◈ Figma plugins developer
