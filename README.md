@@ -11,4 +11,4 @@
 <br>
 I very love my profession and I am eager to develop in it so that my skills become better and better and I also like to get new experience and share it
 
-### 💗 Also follow me on [social media](https://teletype.link/_denis.solovey)
+### Also follow me on [social media](https://teletype.link/_denis.solovey)
