@@ -1,14 +1,11 @@
 # UX/UI Designer | Figma Plugins Developer
-```
-◈ Works with atomic design methodology
-◈ Have a high level of Photoshop and Figma skills
-◈ Like to make complex collages from time to time
-◈ Figma plugins developer
-◈ Understand well how frontend web development works
-◈ Familiar with HIG and Material Design
-```
 
-<br>
+> **Hi**👋
+> <br>My name is Denis, I'm UX/UI designer from Krasnodar, Russia.<br><br>
+> I develop [Multiple Groups](https://www.figma.com/community/plugin/1219008484601651003), [Unused Styles Remover](https://www.figma.com/community/plugin/1052937551486129898/Unused-Styles-Remover), [DS-Templater](https://www.figma.com/community/plugin/1042681939283501853/DS-Templater-(beta)) to help my fellow designers and myself too. If you found one of my developments and you liked it, then I will be very grateful to you if you buy me some [coffee](https://www.buymeacoffee.com/Denis.Solovey), it will motivate me to do even more cool things :)
+
+---
+
 I very love my profession and I am eager to develop in it so that my skills become better and better and I also like to get new experience and share it
 
 ### Also follow me on [social media](https://teletype.link/_denis.solovey)
