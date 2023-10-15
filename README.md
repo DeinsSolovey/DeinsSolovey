@@ -1,4 +1,4 @@
-# Designer | Figma Plugins Developer
+# UX/UI Designer | Figma Plugins Developer
 
 > **Hi**👋
 > <br>My name is Denis, I'm UX/UI designer from Krasnodar, Russia.<br><br>
